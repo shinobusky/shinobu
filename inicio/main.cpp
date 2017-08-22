@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-    cout << "ola k ase" << endl;
+    cout << "que bonito es programar en c++" << endl;
     return 0;
 }
